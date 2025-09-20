@@ -1,8 +1,8 @@
 #Expyriment 1.0.0 (Python 3.10.4), .xpd-file, coding: cp1252
-#date: Sat Sep 20 2025 15:31:39
+#date: Sat Sep 20 2025 16:30:58
 #--EXPERIMENT INFO
-#e mainfile: two_squares.py
-#e sha1: ddd172
+#e mainfile: triggering.py
+#e sha1: 43a3a0
 #e modules: 
 #e Experiment: Square
 #e no between subject factors

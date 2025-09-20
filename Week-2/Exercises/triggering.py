@@ -22,8 +22,8 @@ exp.clock.wait(1000)
 
 # Moving red square
 
-for i in range(66): # i goes from 0 to 66-1
-    squareR = stimuli.Rectangle((50,50), (255, 0, 0), position = (-400+i*5,0)) 
+for i in range(66):
+    squareR = stimuli.Rectangle((50,50), (255, 0, 0), position = (-400+i*5,0))
     # -400+(66-1)*5 = -75 position of the red square left side at the end => -75+50 = -25 position of its right side
 
     squareG = stimuli.Rectangle((50,50), (0, 255, 0), position = (-25,0)) # -25 position of the green square left side
@@ -34,11 +34,11 @@ for i in range(66): # i goes from 0 to 66-1
 
 # Moving green square
 
-for i in range(66):
+for i in range(23): #should have been 22.6 (1+65/3) but it is rounded
     squareR = stimuli.Rectangle((50,50), (255, 0, 0), position = (-75,0)) # Red square stays at the same position
 
-    squareG = stimuli.Rectangle((50,50), (0, 255, 0), position = (-25+i*5,0)) 
-    # Starting from the center, the green square takes the same number of steps (65) at the same speed (5*i) as red, thus same time
+    squareG = stimuli.Rectangle((50,50), (0, 255, 0), position = (-25+i*15,0))
+    # Starting from the center, the green square takes 3x less steps (22) at 3x speed (3*5*i) as red, thus same distance
 
     squareR.present(clear=True, update=False)
 
