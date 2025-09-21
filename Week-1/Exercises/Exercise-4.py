@@ -18,6 +18,11 @@ dct = {'a': 3, 'b': 7, 'c': -2, 'd': 10, 'e': 5}
 
 print("Exercise 4.1")
 
+sum = 0
+for val in dct.values():
+    sum = sum + val
+print(sum)
+
 pass
 
 print("---")
@@ -31,6 +36,8 @@ Print the key that has the largest value in dct.
 """
 
 print("Exercise 4.2")
+
+print(max(dct, key=dct.get))
 
 pass
 
@@ -46,6 +53,11 @@ Create a new dictionary with the squares of all the values in dct.
 
 print("Exercise 4.3")
 
+ndct = {}
+for key in dct:
+    ndct[key] = dct[key]*dct[key]
+print(ndct)
+
 pass
 
 print("---")
@@ -60,6 +72,10 @@ Print only the keys in dct whose values are even numbers.
 
 print("Exercise 4.4")
 
+for key in dct:
+    if not dct[key]%2:
+      print(dct[key])
+
 pass
 
 print("---")
@@ -73,6 +89,11 @@ Create a new dictionary that swaps the keys and values in dct.
 """
 
 print("Exercise 4.5")
+
+ndct = {}
+for key in dct:
+  ndct[dct[key]] = key
+print(ndct)
 
 pass
 
@@ -90,6 +111,14 @@ and print the resulting dictionary.
 s = 'ccctcctttttcc'
 
 print("Exercise 4.6")
+
+ndct = {}
+for char in s:
+   if char in ndct.keys():
+      ndct[char] = ndct[char] +1
+   else:
+      ndct[char] = 1
+print(ndct)
 
 pass
 
@@ -110,6 +139,11 @@ responses = 'jjjpjjpppppjj'
 
 print("Exercise 4.7")
 
+nlst = []
+for char in responses:
+   nlst.append(responses_mapping[char])
+print(nlst)
+
 pass
 
 print("---")
@@ -124,6 +158,12 @@ Merge the following two dictionaries into one:
 """
 
 print("Exercise 4.8")
+
+dict1 = {'a': 1, 'b': 2}
+dict2 = {'c': 3, 'd': 4}
+ndict = dict1 | dict2
+
+print(ndict)
 
 pass
 
@@ -140,6 +180,12 @@ create a new one whose keys are sorted alphabetically.
 
 print("Exercise 4.9")
 
+dict = {'zebra': 10, 'dolphin': 25, 'alligator': 3, 'monkey': 5, 'pig': 9}
+keys = list(dict.keys())
+keys.sort()
+ndict = {i:dict[i] for i in keys}
+print(ndict)
+
 pass
 
 print("---")
@@ -154,6 +200,10 @@ create a new one whose values appear in increasing order.
 """
 
 print("Exercise 4.10")
+
+dict = {'zebra': 10, 'dolphin': 25, 'alligator': 3, 'monkey': 5, 'pig': 9}
+ndict = {k:v for k,v in sorted(dict.items(), key = lambda item: item[1])}
+print(ndict)
 
 pass
 

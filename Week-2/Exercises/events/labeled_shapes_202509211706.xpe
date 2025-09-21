@@ -1,0 +1,8 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Sun Sep 21 2025 17:06:26
+#sha1: 14ddaa
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+295,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-2\\Exercises\\labeled_shapes.py", line 14, in <module>\n    triangle = stimuli.Shape(position = (125,0), colour = (0, 0, 255), vertex_list = expyriment.misc.geometry.vertices_regular_polygon(3, 43.3))\nNameError: name \'expyriment\' is not defined'
