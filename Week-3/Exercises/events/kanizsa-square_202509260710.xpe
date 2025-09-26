@@ -1,0 +1,12 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Fri Sep 26 2025 07:10:42
+#sha1: 6ef4f1
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+4568,stdout,received,'-1'
+4569,stdout,received,'254'
+4569,stdout,received,'-1'
+4569,stdout,received,'254'
+4574,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-3\\Exercises\\kanizsa-square.py", line 22, in <module>\n    circles[0].present(clear=True, update =False)\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\expyriment\\stimuli\\_visual.py", line 1171, in present\n    self.preload(inhibit_ogl_compress=True)\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\expyriment\\stimuli\\_visual.py", line 1059, in preload\n    self._get_surface(),\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\expyriment\\stimuli\\_visual.py", line 490, in _get_surface\n    tmp = self._create_surface()\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\expyriment\\stimuli\\_ellipse.py", line 144, in _create_surface\n    surface.fill(self._colour, special_flags=pygame.BLEND_RGB_MAX)\nValueError: invalid color argument'

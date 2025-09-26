@@ -1,0 +1,8 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Fri Sep 26 2025 07:37:57
+#sha1: 99dd08
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+4986,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-3\\Exercises\\kanizsa-rectangle.py", line 30, in <module>\n    display_kanizsa(math.sqrt(width*width+height*height)//8, 1)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-3\\Exercises\\kanizsa-rectangle.py", line 12, in display_kanizsa\n    l = math.sqrt(factor^2-w^2)\nTypeError: unsupported operand type(s) for ^: \'float\' and \'float\''
