@@ -1,0 +1,14 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Sat Oct 04 2025 11:59:18
+#sha1: 3d1964
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+4681,Stimulus,presented,0
+4684,Stimulus,presented,1
+4688,Stimulus,presented,2
+4691,Stimulus,presented,3
+4695,Stimulus,presented,4
+4701,Stimulus,presented,5
+4883,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\Exercises\\ternus_display.py", line 49, in <module>\n    ternus(70, 30, True, 20)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\Exercises\\ternus_display.py", line 32, in ternus\n    exp.frame.clear()\nAttributeError: \'Experiment\' object has no attribute \'frame\'. Did you mean: \'_name\'?'

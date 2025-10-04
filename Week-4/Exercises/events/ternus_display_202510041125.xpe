@@ -1,0 +1,8 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Sat Oct 04 2025 11:25:48
+#sha1: 553c17
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+5446,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\Exercises\\ternus_display.py", line 33, in <module>\n    ternus(30, 30, True)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\Exercises\\ternus_display.py", line 19, in ternus\n    circles[i] = stimuli.Circle(radius=r, position = ((2*r+5)*i+r+5 , 0))\nIndexError: list assignment index out of range'

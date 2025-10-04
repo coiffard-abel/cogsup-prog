@@ -2,14 +2,17 @@ from expyriment import design, control, stimuli
 import random
 
 def load(stims):
-    pass
+    for stimulus in stims:
+        stimulus.preload()
 
 def timed_draw(stims):
-    pass
-    # return the time it took to draw
+    t0 = exp.clock.time
+    for stimulus in stims:
+        stimulus.present(clear=(stimulus==stims[0]), update=(stimulus==stims[len(stims)-1]))
+    return exp.clock.time - t0
 
 def present_for(stims, t=1000):
-    pass
+    exp.clock.wait(t-timed_draw(stims))
 
 
 """ Test functions """
