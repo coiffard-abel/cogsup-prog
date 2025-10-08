@@ -1,18 +1,6 @@
 from expyriment import design, control, stimuli
 from expyriment.misc.constants import K_SPACE
-
-def preloading(stimuli):
-    for stimulus in stimuli:
-        stimulus.preload()
-
-def draw(stimuli):
-    t0 = exp.clock.time
-    for stimulus in stimuli:
-        stimulus.present(clear=(stimulus==stimuli[0]), update=(stimulus==stimuli[len(stimuli)-1]))
-    return exp.clock.time - t0
-
-def present_for(stimuli, time):
-    exp.clock.wait(time-draw(stimuli))
+import functions
 
 def make_circles(r, tags, gap):
     circles = []
@@ -34,7 +22,7 @@ def ternus(r, isi, tags):
     circles = make_circles(r, tags, gap)
     
     for i in range(maxIterations):
-        present_for(circles, circleDuration)
+        functions.present_for(exp, circles, circleDuration)
 
         if exp.keyboard.check(K_SPACE):
             break

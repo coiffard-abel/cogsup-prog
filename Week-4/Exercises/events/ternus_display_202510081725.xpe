@@ -1,0 +1,51 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Wed Oct 08 2025 17:25:29
+#sha1: 49813c
+#modules: drawing_functions.py (332985)
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+577,Stimulus,presented,0
+579,Stimulus,presented,1
+1077,Stimulus,presented,0
+1079,Stimulus,presented,2
+1576,Stimulus,presented,0
+1578,Stimulus,presented,3
+2076,Stimulus,presented,0
+2079,Stimulus,presented,4
+2576,Stimulus,presented,0
+2578,Stimulus,presented,5
+3076,Stimulus,presented,0
+3078,Stimulus,presented,6
+3577,Stimulus,presented,0
+3579,Stimulus,presented,7
+4076,Stimulus,presented,0
+4078,Stimulus,presented,8
+4576,Stimulus,presented,0
+4578,Stimulus,presented,9
+5077,Stimulus,presented,0
+5079,Stimulus,presented,10
+5576,Stimulus,presented,0
+5578,Stimulus,presented,11
+6076,Stimulus,presented,0
+6078,Stimulus,presented,12
+6577,Stimulus,presented,0
+6579,Stimulus,presented,13
+7076,Stimulus,presented,0
+7078,Stimulus,presented,14
+7576,Stimulus,presented,0
+7579,Stimulus,presented,15
+8076,Stimulus,presented,0
+8078,Stimulus,presented,16
+8576,Stimulus,presented,0
+8579,Stimulus,presented,17
+9076,Stimulus,presented,0
+9078,Stimulus,presented,18
+9577,Stimulus,presented,0
+9580,Stimulus,presented,19
+10077,Stimulus,presented,0
+10079,Stimulus,presented,20
+10577,stdout,received,'[500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500]'
+10577,Experiment,ended
+10582,Stimulus,presented,21
+10679,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\exercises\\ternus_display.py", line 3, in <module>\n    from drawing_functions import present_for, preloading, make_circles\nImportError: cannot import name \'preloading\' from \'drawing_functions\' (C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\exercises\\drawing_functions.py)'

@@ -1,0 +1,70 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Wed Oct 08 2025 17:28:20
+#sha1: ba3a5d
+#modules: drawing_functions.py (332985)
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+334,Stimulus,presented,0
+337,Stimulus,presented,1
+343,Stimulus,presented,2
+534,Stimulus,presented,0
+536,Stimulus,presented,1
+542,Stimulus,presented,2
+733,Stimulus,presented,0
+734,Stimulus,presented,1
+738,Stimulus,presented,2
+934,Stimulus,presented,0
+935,Stimulus,presented,1
+939,Stimulus,presented,2
+1133,Stimulus,presented,0
+1135,Stimulus,presented,1
+1138,Stimulus,presented,2
+1333,Stimulus,presented,0
+1334,Stimulus,presented,1
+1337,Stimulus,presented,2
+1533,Stimulus,presented,0
+1534,Stimulus,presented,1
+1538,Stimulus,presented,2
+1734,Stimulus,presented,0
+1736,Stimulus,presented,1
+1741,Stimulus,presented,2
+1935,Stimulus,presented,0
+1938,Stimulus,presented,1
+1942,Stimulus,presented,2
+2134,Stimulus,presented,0
+2137,Stimulus,presented,1
+2142,Stimulus,presented,2
+2333,Stimulus,presented,0
+2334,Stimulus,presented,1
+2337,Stimulus,presented,2
+2533,Stimulus,presented,0
+2536,Stimulus,presented,1
+2540,Stimulus,presented,2
+2733,Stimulus,presented,0
+2735,Stimulus,presented,1
+2740,Stimulus,presented,2
+2933,Stimulus,presented,0
+2936,Stimulus,presented,1
+2939,Stimulus,presented,2
+3133,Stimulus,presented,0
+3136,Stimulus,presented,1
+3139,Stimulus,presented,2
+3333,Stimulus,presented,0
+3335,Stimulus,presented,1
+3339,Stimulus,presented,2
+3533,Keyboard,received,32,check
+4537,Stimulus,presented,3
+4538,Stimulus,presented,4
+4542,Stimulus,presented,5
+4736,Keyboard,received,32,check
+5740,Stimulus,presented,6
+5742,Stimulus,presented,7
+5744,Stimulus,presented,8
+5745,Stimulus,presented,9
+5746,Stimulus,presented,10
+5749,Stimulus,presented,11
+5939,Keyboard,received,32,check
+5939,Experiment,ended
+5944,Stimulus,presented,12
+10499,Stimulus,presented,21

@@ -1,0 +1,13 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Wed Oct 08 2025 16:53:42
+#sha1: 2226a8
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+5349,design,log,
+#design: #exp: Blindspot
+#design: block_cnt,block_id,trial_cnt,trial_id
+5349,design,logged,
+5349,Experiment,started
+5352,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\Exercises\\blindspot.py", line 53, in <module>\n    while(run_trial()):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\Exercises\\blindspot.py", line 21, in run_trial\n    display_instr()\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\Exercises\\blindspot.py", line 17, in display_instr\n    stimuli.textScreen()\nAttributeError: module \'expyriment.stimuli\' has no attribute \'textScreen\'. Did you mean: \'TextScreen\'?'

@@ -1,0 +1,35 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Wed Oct 08 2025 17:01:41
+#sha1: 95d4c6
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+1529,design,log,
+#design: #exp: Blindspot
+#design: block_cnt,block_id,trial_cnt,trial_id
+1529,design,logged,
+1529,Experiment,started
+1547,Stimulus,presented,0
+1550,Stimulus,presented,1
+2380,Keyboard,received,32,wait
+2381,stdout,received,'32'
+2402,Stimulus,presented,2
+2404,Stimulus,presented,3
+3137,Keyboard,received,32,wait
+3137,stdout,received,'32'
+3155,Stimulus,presented,4
+3157,Stimulus,presented,5
+3563,Keyboard,received,32,wait
+3564,stdout,received,'32'
+3588,Stimulus,presented,6
+3590,Stimulus,presented,7
+5295,Keyboard,received,1073742048,wait
+5295,stdout,received,'1073742048'
+5314,Stimulus,presented,8
+5316,Stimulus,presented,9
+5416,Keyboard,received,99,wait
+5417,stdout,received,'99'
+5438,Stimulus,presented,10
+5440,Stimulus,presented,11
+8478,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\Exercises\\blindspot.py", line 54, in <module>\n    while(run_trial()):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\Exercises\\blindspot.py", line 33, in run_trial\n    key, _ = exp.keyboard.wait()\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\expyriment\\io\\_keyboard.py", line 363, in wait\n    if isinstance(callback_function, FunctionType):\nKeyboardInterrupt'

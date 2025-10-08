@@ -1,0 +1,8 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Wed Oct 08 2025 17:35:56
+#sha1: 8bfd01
+#modules: functions.py (2bc7db)
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+4347,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\exercises\\ternus_display.py", line 64, in <module>\n    ternus(70, 0, False)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\exercises\\ternus_display.py", line 41, in ternus\n    functions.present_for(circles, circleDuration)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-4\\exercises\\functions.py", line 15, in present_for\n    exp.clock.wait(t-timed_draw(stims))\nNameError: name \'exp\' is not defined'
