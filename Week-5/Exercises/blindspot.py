@@ -66,7 +66,7 @@ def run_trial(radius = 75, posCircleX = 0, posCircleY = 0, side = 1, rec_full = 
         if rec_full:
             data = (side, key, radius, (posCircleX, posCircleY))
             full_data.append(data)
-            
+
     data = (side, key, radius, (posCircleX, posCircleY))
 
 
@@ -82,6 +82,6 @@ control.end()
 
 if(len(full_data)):
    for side, key, radius, pos in full_data:
-    print(f"Trial on {side} eye: key {key} made circle of radius {radius} at pos ({pos[0]}, {pos[1]})")
+        print(f"Trial on {side} eye: key {key} made circle of radius {radius} at pos ({pos[0]}, {pos[1]})")
 else:
     print(f"Trial on {data[0]} eye: key {data[1]} made circle of radius {data[2]} at pos ({data[3][0]}, {data[3][1]})")
