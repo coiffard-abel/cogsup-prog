@@ -1,0 +1,14 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Sun Oct 12 2025 23:08:37
+#sha1: 6959ea
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+3755,design,log,
+#design: #exp: Blindspot
+#design: block_cnt,block_id,trial_cnt,trial_id
+3755,design,logged,
+3755,Experiment,started
+3792,Stimulus,presented,1
+3796,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 69, in <module>\n    run_trial()\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 45, in run_trial\n    display_instr(side)\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 21, in display_instr\n    exp.keyboard.wait()\nNameError: name \'exp\' is not defined'

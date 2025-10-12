@@ -1,0 +1,13 @@
+#Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
+#date: Sun Oct 12 2025 23:09:27
+#sha1: 54d0e6
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+2143,design,log,
+#design: #exp: Blindspot
+#design: block_cnt,block_id,trial_cnt,trial_id
+2143,design,logged,
+2143,Experiment,started
+60901,stderr,received,'Traceback (most recent call last):\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 70, in <module>\n    run_trial()\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 38, in run_trial\n    side = input_side("Please enter \'R\' to test the right eye or \'L\' for the left one:")\n  File "C:\\Users\\Abel COIFFARD\\Desktop\\Cours\\M1\\S1\\Exp_approach\\cogsup-prog\\Assignments\\Week-5\\exercises\\blindspot.py", line 26, in input_side\n    ans = input(prompt) # Ask the user for their guess\n  File "C:\\Users\\Abel COIFFARD\\AppData\\Local\\Programs\\Python\\Python310\\lib\\codecs.py", line 319, in decode\n    def decode(self, input, final=False):\nKeyboardInterrupt'

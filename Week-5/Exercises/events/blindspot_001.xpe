@@ -1,252 +1,227 @@
 #Expyriment 1.0.0 (Python 3.10.4), .xpe-file, coding: cp1252
-#date: Wed Oct 08 2025 17:54:26
-#sha1: 911e7e
+#date: Sun Oct 12 2025 23:53:49
+#sha1: e2b06e
 #modules: 
 #display: size=(800, 600), window_mode=True, opengl=2
 #os: uname_result(system='Windows', node='PORT-HP', release='10', version='10.0.19045', machine='AMD64')
 Time,Type,Event,Value,Detail,Detail2
-1585,design,log,
+2150,design,log,
 #design: #exp: Blindspot
 #design: block_cnt,block_id,trial_cnt,trial_id
-1585,design,logged,
-1585,Experiment,started
-1613,Stimulus,presented,0
-3324,Keyboard,received,32,wait
-3348,Stimulus,presented,1
-3350,Stimulus,presented,2
-8553,Keyboard,received,1073741904,wait
-8573,Stimulus,presented,3
-8575,Stimulus,presented,4
-9919,Keyboard,received,1073741904,wait
-9942,Stimulus,presented,5
-9944,Stimulus,presented,6
-10085,Keyboard,received,1073741904,wait
-10108,Stimulus,presented,7
-10110,Stimulus,presented,8
-10225,Keyboard,received,1073741904,wait
-10242,Stimulus,presented,9
-10244,Stimulus,presented,10
-10376,Keyboard,received,1073741904,wait
-10395,Stimulus,presented,11
-10397,Stimulus,presented,12
-10521,Keyboard,received,1073741904,wait
-10545,Stimulus,presented,13
-10547,Stimulus,presented,14
-10672,Keyboard,received,1073741904,wait
-10695,Stimulus,presented,15
-10697,Stimulus,presented,16
-10823,Keyboard,received,1073741904,wait
-10846,Stimulus,presented,17
-10848,Stimulus,presented,18
-10974,Keyboard,received,1073741904,wait
-10998,Stimulus,presented,19
-11000,Stimulus,presented,20
-11128,Keyboard,received,1073741904,wait
-11153,Stimulus,presented,21
-11156,Stimulus,presented,22
-11289,Keyboard,received,1073741904,wait
-11312,Stimulus,presented,23
-11314,Stimulus,presented,24
-11450,Keyboard,received,1073741904,wait
-11474,Stimulus,presented,25
-11476,Stimulus,presented,26
-11604,Keyboard,received,1073741904,wait
-11627,Stimulus,presented,27
-11629,Stimulus,presented,28
-11766,Keyboard,received,1073741904,wait
-11791,Stimulus,presented,29
-11793,Stimulus,presented,30
-11916,Keyboard,received,1073741904,wait
-11931,Stimulus,presented,31
-11933,Stimulus,presented,32
-12071,Keyboard,received,1073741904,wait
-12087,Stimulus,presented,33
-12089,Stimulus,presented,34
-12242,Keyboard,received,1073741904,wait
-12266,Stimulus,presented,35
-12268,Stimulus,presented,36
-12384,Keyboard,received,1073741904,wait
-12407,Stimulus,presented,37
-12409,Stimulus,presented,38
-12537,Keyboard,received,1073741904,wait
-12556,Stimulus,presented,39
-12558,Stimulus,presented,40
-12688,Keyboard,received,1073741904,wait
-12707,Stimulus,presented,41
-12709,Stimulus,presented,42
-12839,Keyboard,received,1073741904,wait
-12864,Stimulus,presented,43
-12866,Stimulus,presented,44
-13014,Keyboard,received,1073741904,wait
-13031,Stimulus,presented,45
-13032,Stimulus,presented,46
-13165,Keyboard,received,1073741904,wait
-13187,Stimulus,presented,47
-13189,Stimulus,presented,48
-14017,Keyboard,received,1073741904,wait
-14042,Stimulus,presented,49
-14044,Stimulus,presented,50
-14158,Keyboard,received,1073741904,wait
-14184,Stimulus,presented,51
-14186,Stimulus,presented,52
-14300,Keyboard,received,1073741904,wait
-14327,Stimulus,presented,53
-14329,Stimulus,presented,54
-14418,Keyboard,received,50,wait
-14443,Stimulus,presented,55
-14445,Stimulus,presented,56
-14583,Keyboard,received,50,wait
-14612,Stimulus,presented,57
-14614,Stimulus,presented,58
-14824,Keyboard,received,49,wait
-14844,Stimulus,presented,59
-14846,Stimulus,presented,60
-15039,Keyboard,received,49,wait
-15063,Stimulus,presented,61
-15065,Stimulus,presented,62
-15210,Keyboard,received,49,wait
-15237,Stimulus,presented,63
-15239,Stimulus,presented,64
-15372,Keyboard,received,49,wait
-15394,Stimulus,presented,65
-15396,Stimulus,presented,66
-15535,Keyboard,received,49,wait
-15557,Stimulus,presented,67
-15560,Stimulus,presented,68
-15717,Keyboard,received,49,wait
-15738,Stimulus,presented,69
-15740,Stimulus,presented,70
-15828,Keyboard,received,49,wait
-15850,Stimulus,presented,71
-15852,Stimulus,presented,72
-16045,Keyboard,received,49,wait
-16065,Stimulus,presented,73
-16067,Stimulus,presented,74
-16189,Keyboard,received,1073741904,wait
-16202,Stimulus,presented,75
-16204,Stimulus,presented,76
-16330,Keyboard,received,1073741904,wait
-16345,Stimulus,presented,77
-16347,Stimulus,presented,78
-16462,Keyboard,received,1073741904,wait
-16481,Stimulus,presented,79
-16483,Stimulus,presented,80
-16605,Keyboard,received,1073741904,wait
-16624,Stimulus,presented,81
-16626,Stimulus,presented,82
-16703,Keyboard,received,49,wait
-16721,Stimulus,presented,83
-16723,Stimulus,presented,84
-16766,Keyboard,received,1073741904,wait
-16785,Stimulus,presented,85
-16787,Stimulus,presented,86
-16925,Keyboard,received,49,wait
-16944,Stimulus,presented,87
-16947,Stimulus,presented,88
-17081,Keyboard,received,1073741904,wait
-17092,Stimulus,presented,89
-17095,Stimulus,presented,90
-17109,Keyboard,received,49,wait
-17122,Stimulus,presented,91
-17124,Stimulus,presented,92
-17253,Keyboard,received,1073741904,wait
-17270,Stimulus,presented,93
-17272,Stimulus,presented,94
-17464,Keyboard,received,1073741904,wait
-17482,Stimulus,presented,95
-17484,Stimulus,presented,96
-17690,Keyboard,received,1073741904,wait
-17701,Stimulus,presented,97
-17703,Stimulus,presented,98
-17841,Keyboard,received,1073741904,wait
-17867,Stimulus,presented,99
-17869,Stimulus,presented,100
-17992,Keyboard,received,1073741904,wait
-18016,Stimulus,presented,101
-18018,Stimulus,presented,102
-18127,Keyboard,received,1073741904,wait
-18406,Stimulus,presented,103
-18411,Stimulus,presented,104
-18480,Keyboard,received,1073741904,wait
-18509,Stimulus,presented,105
-18512,Stimulus,presented,106
-18645,Keyboard,received,1073741904,wait
-18673,Stimulus,presented,107
-18676,Stimulus,presented,108
-18804,Keyboard,received,1073741904,wait
-18825,Stimulus,presented,109
-18827,Stimulus,presented,110
-20187,Keyboard,received,1073741904,wait
-20205,Stimulus,presented,111
-20207,Stimulus,presented,112
-20338,Keyboard,received,1073741904,wait
-20356,Stimulus,presented,113
-20358,Stimulus,presented,114
-20509,Keyboard,received,1073741904,wait
-20527,Stimulus,presented,115
-20529,Stimulus,presented,116
-20935,Keyboard,received,1073741904,wait
-20952,Stimulus,presented,117
-20954,Stimulus,presented,118
-21090,Keyboard,received,1073741904,wait
-21103,Stimulus,presented,119
-21105,Stimulus,presented,120
-22821,Keyboard,received,49,wait
-22838,Stimulus,presented,121
-22841,Stimulus,presented,122
-23168,Keyboard,received,49,wait
-23184,Stimulus,presented,123
-23187,Stimulus,presented,124
-26800,Keyboard,received,49,wait
-26811,Stimulus,presented,125
-26813,Stimulus,presented,126
-28108,Keyboard,received,49,wait
-28124,Stimulus,presented,127
-28126,Stimulus,presented,128
-28434,Keyboard,received,50,wait
-28448,Stimulus,presented,129
-28450,Stimulus,presented,130
-28639,Keyboard,received,50,wait
-28655,Stimulus,presented,131
-28657,Stimulus,presented,132
-28860,Keyboard,received,50,wait
-28878,Stimulus,presented,133
-28880,Stimulus,presented,134
-29102,Keyboard,received,50,wait
-29119,Stimulus,presented,135
-29121,Stimulus,presented,136
-29357,Keyboard,received,50,wait
-29373,Stimulus,presented,137
-29375,Stimulus,presented,138
-29652,Keyboard,received,50,wait
-29670,Stimulus,presented,139
-29672,Stimulus,presented,140
-29984,Keyboard,received,50,wait
-29996,Stimulus,presented,141
-29998,Stimulus,presented,142
-30300,Keyboard,received,50,wait
-30314,Stimulus,presented,143
-30317,Stimulus,presented,144
-32073,Keyboard,received,49,wait
-32093,Stimulus,presented,145
-32096,Stimulus,presented,146
-32278,Keyboard,received,49,wait
-32289,Stimulus,presented,147
-32291,Stimulus,presented,148
-32449,Keyboard,received,49,wait
-32468,Stimulus,presented,149
-32470,Stimulus,presented,150
-32640,Keyboard,received,49,wait
-32650,Stimulus,presented,151
-32652,Stimulus,presented,152
-46367,Keyboard,received,1073741904,wait
-46378,Stimulus,presented,153
-46380,Stimulus,presented,154
-46518,Keyboard,received,1073741904,wait
-46535,Stimulus,presented,155
-46537,Stimulus,presented,156
-47015,Keyboard,received,1073741904,wait
-47025,Stimulus,presented,157
-47028,Stimulus,presented,158
-55181,Keyboard,received,32,wait
-55183,Experiment,ended
+2150,design,logged,
+2150,Experiment,started
+2203,Stimulus,presented,1
+3854,Keyboard,received,32,wait
+3865,Stimulus,presented,0
+3867,Stimulus,presented,2
+5260,Keyboard,received,1073741906,wait
+5271,Stimulus,presented,0
+5273,Stimulus,presented,3
+5395,Keyboard,received,1073741906,wait
+5411,Stimulus,presented,0
+5413,Stimulus,presented,4
+5525,Keyboard,received,1073741906,wait
+5540,Stimulus,presented,0
+5542,Stimulus,presented,5
+5655,Keyboard,received,1073741906,wait
+5670,Stimulus,presented,0
+5672,Stimulus,presented,6
+6769,Keyboard,received,1073741906,wait
+6778,Stimulus,presented,0
+6781,Stimulus,presented,7
+6893,Keyboard,received,1073741906,wait
+6904,Stimulus,presented,0
+6906,Stimulus,presented,8
+7013,Keyboard,received,1073741906,wait
+7027,Stimulus,presented,0
+7029,Stimulus,presented,9
+7144,Keyboard,received,1073741906,wait
+7156,Stimulus,presented,0
+7158,Stimulus,presented,10
+7288,Keyboard,received,1073741903,wait
+7301,Stimulus,presented,0
+7303,Stimulus,presented,11
+7467,Keyboard,received,1073741906,wait
+7482,Stimulus,presented,0
+7484,Stimulus,presented,12
+7530,Keyboard,received,1073741903,wait
+7544,Stimulus,presented,0
+7547,Stimulus,presented,13
+7637,Keyboard,received,1073741906,wait
+7649,Stimulus,presented,0
+7651,Stimulus,presented,14
+7670,Keyboard,received,1073741903,wait
+7681,Stimulus,presented,0
+7683,Stimulus,presented,15
+7812,Keyboard,received,1073741906,wait
+7826,Stimulus,presented,0
+7829,Stimulus,presented,16
+7905,Keyboard,received,1073741903,wait
+7920,Stimulus,presented,0
+7923,Stimulus,presented,17
+8013,Keyboard,received,1073741906,wait
+8026,Stimulus,presented,0
+8028,Stimulus,presented,18
+8066,Keyboard,received,1073741903,wait
+8081,Stimulus,presented,0
+8083,Stimulus,presented,19
+8174,Keyboard,received,1073741906,wait
+8191,Stimulus,presented,0
+8194,Stimulus,presented,20
+8227,Keyboard,received,1073741903,wait
+8242,Stimulus,presented,0
+8244,Stimulus,presented,21
+8328,Keyboard,received,1073741906,wait
+8342,Stimulus,presented,0
+8345,Stimulus,presented,22
+8381,Keyboard,received,1073741903,wait
+8396,Stimulus,presented,0
+8398,Stimulus,presented,23
+8489,Keyboard,received,1073741906,wait
+8504,Stimulus,presented,0
+8506,Stimulus,presented,24
+8542,Keyboard,received,1073741903,wait
+8557,Stimulus,presented,0
+8559,Stimulus,presented,25
+8629,Keyboard,received,1073741906,wait
+8644,Stimulus,presented,0
+8646,Stimulus,presented,26
+8703,Keyboard,received,1073741903,wait
+8718,Stimulus,presented,0
+8720,Stimulus,presented,27
+8804,Keyboard,received,1073741906,wait
+8818,Stimulus,presented,0
+8821,Stimulus,presented,28
+8888,Keyboard,received,1073741903,wait
+8903,Stimulus,presented,0
+8905,Stimulus,presented,29
+8975,Keyboard,received,1073741906,wait
+8989,Stimulus,presented,0
+8991,Stimulus,presented,30
+9076,Keyboard,received,50,wait
+9093,Stimulus,presented,0
+9096,Stimulus,presented,31
+9109,Keyboard,received,1073741903,wait
+9125,Stimulus,presented,0
+9128,Stimulus,presented,32
+9301,Keyboard,received,50,wait
+9320,Stimulus,presented,0
+9322,Stimulus,presented,33
+9424,Keyboard,received,1073741903,wait
+9441,Stimulus,presented,0
+9443,Stimulus,presented,34
+9583,Keyboard,received,50,wait
+9603,Stimulus,presented,0
+9605,Stimulus,presented,35
+9673,Keyboard,received,49,wait
+9689,Stimulus,presented,0
+9691,Stimulus,presented,36
+9807,Keyboard,received,49,wait
+9824,Stimulus,presented,0
+9826,Stimulus,presented,37
+9938,Keyboard,received,49,wait
+9951,Stimulus,presented,0
+9953,Stimulus,presented,38
+10099,Keyboard,received,49,wait
+10108,Stimulus,presented,0
+10111,Stimulus,presented,39
+10415,Keyboard,received,49,wait
+10426,Stimulus,presented,0
+10428,Stimulus,presented,40
+10576,Keyboard,received,49,wait
+10591,Stimulus,presented,0
+10593,Stimulus,presented,41
+10716,Keyboard,received,49,wait
+10729,Stimulus,presented,0
+10731,Stimulus,presented,42
+10850,Keyboard,received,49,wait
+10861,Stimulus,presented,0
+10863,Stimulus,presented,43
+11021,Keyboard,received,49,wait
+11027,Stimulus,presented,0
+11029,Stimulus,presented,44
+11225,Keyboard,received,1073741903,wait
+11231,Stimulus,presented,0
+11234,Stimulus,presented,45
+11379,Keyboard,received,1073741903,wait
+11385,Stimulus,presented,0
+11387,Stimulus,presented,46
+11610,Keyboard,received,1073741903,wait
+11617,Stimulus,presented,0
+11619,Stimulus,presented,47
+11781,Keyboard,received,1073741903,wait
+11791,Stimulus,presented,0
+11793,Stimulus,presented,48
+11936,Keyboard,received,1073741906,wait
+11945,Stimulus,presented,0
+11947,Stimulus,presented,49
+12097,Keyboard,received,1073741906,wait
+12107,Stimulus,presented,0
+12109,Stimulus,presented,50
+12198,Keyboard,received,1073741903,wait
+12207,Stimulus,presented,0
+12210,Stimulus,presented,51
+12362,Keyboard,received,1073741903,wait
+12371,Stimulus,presented,0
+12373,Stimulus,presented,52
+12482,Keyboard,received,1073741903,wait
+12491,Stimulus,presented,0
+12493,Stimulus,presented,53
+13017,Keyboard,received,13,wait
+13026,Stimulus,presented,0
+13028,Stimulus,presented,54
+15320,Keyboard,received,32,wait
+15322,Experiment,ended
+15485,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 0)'
+15486,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 5)'
+15486,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 10)'
+15486,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 15)'
+15487,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 20)'
+15487,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 25)'
+15488,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 30)'
+15488,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (0, 35)'
+15488,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (0, 40)'
+15488,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (5, 40)'
+15489,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (5, 45)'
+15489,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (10, 45)'
+15489,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (10, 50)'
+15489,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (15, 50)'
+15490,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (15, 55)'
+15490,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (20, 55)'
+15490,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (20, 60)'
+15491,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (25, 60)'
+15491,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (25, 65)'
+15492,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (30, 65)'
+15493,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (30, 70)'
+15495,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (35, 70)'
+15497,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (35, 75)'
+15499,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (40, 75)'
+15501,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (40, 80)'
+15503,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (45, 80)'
+15504,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 75 at pos (45, 85)'
+15506,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 75 at pos (50, 85)'
+15512,stdout,received,'Trial on left eye: key 50 made circle of radius 75 at pos (50, 90)'
+15512,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 80 at pos (50, 90)'
+15513,stdout,received,'Trial on left eye: key 50 made circle of radius 80 at pos (55, 90)'
+15514,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 85 at pos (55, 90)'
+15515,stdout,received,'Trial on left eye: key 50 made circle of radius 85 at pos (60, 90)'
+15517,stdout,received,'Trial on left eye: key 49 made circle of radius 90 at pos (60, 90)'
+15519,stdout,received,'Trial on left eye: key 49 made circle of radius 85 at pos (60, 90)'
+15520,stdout,received,'Trial on left eye: key 49 made circle of radius 80 at pos (60, 90)'
+15521,stdout,received,'Trial on left eye: key 49 made circle of radius 75 at pos (60, 90)'
+15523,stdout,received,'Trial on left eye: key 49 made circle of radius 70 at pos (60, 90)'
+15527,stdout,received,'Trial on left eye: key 49 made circle of radius 65 at pos (60, 90)'
+15528,stdout,received,'Trial on left eye: key 49 made circle of radius 60 at pos (60, 90)'
+15530,stdout,received,'Trial on left eye: key 49 made circle of radius 55 at pos (60, 90)'
+15531,stdout,received,'Trial on left eye: key 49 made circle of radius 50 at pos (60, 90)'
+15532,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (60, 90)'
+15534,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (65, 90)'
+15535,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (70, 90)'
+15536,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (75, 90)'
+15538,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 45 at pos (80, 90)'
+15539,stdout,received,'Trial on left eye: key 1073741906 made circle of radius 45 at pos (80, 95)'
+15540,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (80, 100)'
+15542,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (85, 100)'
+15544,stdout,received,'Trial on left eye: key 1073741903 made circle of radius 45 at pos (90, 100)'
+15546,stdout,received,'Trial on left eye: key 13 made circle of radius 45 at pos (95, 100)'
+15548,stdout,received,'Trial on left eye: key 32 made circle of radius 45 at pos (95, 100)'
